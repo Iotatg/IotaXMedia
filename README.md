@@ -1,5 +1,7 @@
 # IotaXMedia
 
+Repository: https://github.com/Iotatg/IotaXMedia
+
 A Telegram music and video streaming bot for group voice chats. IotaXMedia is a
 fork of LotaXMedia that adds clone-bot support and cookieless YouTube downloads
 through `yt-dlp` and Deno.
@@ -33,8 +35,8 @@ through `yt-dlp` and Deno.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Iotatg/Iota.git
-cd Iota
+git clone https://github.com/Iotatg/IotaXMedia.git
+cd IotaXMedia
 
 # Install Python dependencies
 pip install -r requirements.txt
